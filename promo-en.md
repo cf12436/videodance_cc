@@ -2,7 +2,7 @@
 
 Most AI tools give you a single capability and leave the rest to you. VideoDance is different. It's a complete creative platform that covers the full production pipeline — from a rough story concept to finished video — without requiring you to stitch together a dozen separate tools.
 
-![VideoDance Platform Overview](img/1.png)
+![VideoDance Platform Overview](https://zimg.artkits.store/videodance/1.png)
 
 ---
 
@@ -12,7 +12,7 @@ The image side of VideoDance runs on eleven models, each suited to a different k
 
 Text-to-image and image-to-image workflows are both supported. You can describe what you want, upload a reference and transform it, or do both in sequence. The output quality is consistent enough to use directly in professional projects.
 
-![Image Generation](img/3.png)
+![Image Generation](https://zimg.artkits.store/videodance/3.png)
 
 ---
 
@@ -22,7 +22,7 @@ VideoDance integrates five of the leading video generation models: Sora 2, Kling
 
 All of them support both text-to-video and image-to-video. You provide either a description or a reference frame, and the model generates a 5-to-10 second clip. Clips can be chained together to build longer sequences. Resolution goes up to 4K.
 
-![Video Generation](img/2.png)
+![Video Generation](https://zimg.artkits.store/videodance/2.png)
 
 ---
 
@@ -32,23 +32,23 @@ This is the feature that sets VideoDance apart. AI Studio is a structured produc
 
 **Script.** You describe your story in plain language. The system generates a complete 10-shot script with scene descriptions, character dialogue, and camera direction. Edit any part of it before moving on.
 
-![Script Generation](img/4.png)
+![Script Generation](https://zimg.artkits.store/videodance/4.png)
 
 **Characters.** The platform creates portrait images for each character in the script. These aren't one-off generations — the same character design is carried through every subsequent step, which solves one of the biggest practical problems with AI-generated narrative content.
 
 **Scenes.** Each scene in the script gets a concept illustration. This is where you lock the visual style before committing to the render: the color palette, the setting, the lighting approach.
 
-![Scene Generation](img/5.png)
+![Scene Generation](https://zimg.artkits.store/videodance/5.png)
 
 **Keyframes.** Shot-by-shot images are generated for the entire project in sequence. You can review composition and pacing before any video is rendered, and regenerate individual shots if something isn't working.
 
 **Videos.** Each keyframe is rendered into a video clip. Seedance 2.0 is the default — it gets through a 10-shot project quickly and the output is solid. Kling O3 is available for projects where you need premium visual quality.
 
-![Video Rendering](img/6.png)
+![Video Rendering](https://zimg.artkits.store/videodance/6.png)
 
 **Export.** Individual shots and the full project package are available to download. Everything is organized by project in the dashboard.
 
-![Export](img/7.png)
+![Export](https://zimg.artkits.store/videodance/7.png)
 
 ---
 
